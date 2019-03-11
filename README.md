@@ -13,4 +13,4 @@ You can further customize the orgInit.sh to fit your needs for example:
 -sfdx commands to assign permission sets to the user 
 -add any apex classes that should be deployed in the process 
 
-2) 
+2) create-demo-data-setup.apex - apex class that will do the scratch org pwd reset so that your end user could set up their credentials to authenticate into their scratch org. 
